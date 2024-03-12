@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.loginacc;
 
 import androidx.appcompat.app.AppCompatActivity;
 

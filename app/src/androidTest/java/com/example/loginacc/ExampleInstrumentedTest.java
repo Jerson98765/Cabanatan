@@ -1,4 +1,4 @@
-package com.example.cabanatan;
+package com.example.loginacc;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.cabanatan", appContext.getPackageName());
+        assertEquals("com.example.loginacc", appContext.getPackageName());
     }
 }
